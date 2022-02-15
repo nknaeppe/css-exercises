@@ -1,0 +1,17 @@
+.odd-number {
+    background: rgb(253, 138, 138);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#special-number-1{
+    color: rgb(0,0,255);
+    font-size: 36px;  
+}
+.odd-number-special{
+    font-size: 24px;
+}
+
+#special-number-2{
+    background: rgb(142, 209, 142);
+    font-size: 24px;
+    font-style: bold;
+}
